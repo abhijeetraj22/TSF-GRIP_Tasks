@@ -1,7 +1,7 @@
 <a href=""><img height=400 src="https://www.linkpicture.com/q/Untitled-1_10.jpg" type="image"></a>
 <img height="150" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 
-
+<img height="55" src="https://img.shields.io/badge/Internship-Data Science & Business Analytics-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 <img height="37" src="https://img.shields.io/badge/Author -Abhijeet Raj Modanwal-blue.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
 <img height="33" src="https://img.shields.io/badge/Hello!-Welcome to this repo-brightgreen.svg?style=flat&logo=github" />
 
